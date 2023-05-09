@@ -1,0 +1,7 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¤Ë¶ù8ÕÌíÚ÷0
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ë¶ù
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¤Ë¶ù8ÝÌíÚ÷0
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡ž¸Îùÿÿÿÿ8ÞÌíÚ÷0

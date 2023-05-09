@@ -1,0 +1,15 @@
+
+n
+java:S1192:"XDefine a constant instead of duplicating this literal "%-25s %-25s %-25s %-25s" 3 times.(¨İÙË
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï¹ÈÔûÿÿÿÿ
+g
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ğïä¸ûÿÿÿÿ
+b	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÏÉe
+g
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÿÏÉe
+J
+java:S6397*"5Replace this character class by the character itself.(×¨%
+c
+java:S5361T"HReplace this call to "replaceAll()" by a call to the "replace()" method.(·‚êºûÿÿÿÿ
+l
+java:S3457`"Q%n should be used in place of \n to produce the platform-specific line separator.(¯Í¾¬úÿÿÿÿ

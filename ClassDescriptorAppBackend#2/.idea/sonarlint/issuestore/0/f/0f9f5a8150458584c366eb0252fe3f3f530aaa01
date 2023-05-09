@@ -1,0 +1,9 @@
+
+0
+java:S1220""Move this file to a named package.
+G
+java:S2201"*The return value of "orElse" must be used.(Ëƒ¡Ì8Ñ“ëØ÷0
+>
+java:S3864"!Remove this use of "Stream.peek".(ßˆ±ö8Ò“ëØ÷0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(áØÏC8Ö“ëØ÷0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ßˆ±ö8Ù“ëØ÷0

@@ -1,0 +1,21 @@
+
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥›Þ—üÿÿÿÿ
+I
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å
+?
+java:S1128")Remove this unused import 'java.io.File'.(†Ð¥Å
+J
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äþÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+J
+java:S1128	"4Remove this unused import 'java.util.regex.Matcher'.(ëÅ›ã
+O
+java:S1128
+"4Remove this unused import 'java.util.regex.Pattern'.(Ã•…Äúÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
